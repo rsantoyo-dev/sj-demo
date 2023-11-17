@@ -1,5 +1,5 @@
 [build]
-publish = "dist/sj-demo/browser"
+publish = "dist/sj-demo/application
 command = "ng build"
 [[redirects]]
 from = "/*"
