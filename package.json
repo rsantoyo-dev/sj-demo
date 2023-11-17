@@ -23,7 +23,6 @@
     "@angular/ssr": "^17.0.1",
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
-    "super-jss": "file:dist/super-jss/super-jss-0.0.0.tgz",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
