@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
-import {SjDirective} from "super-jss";
+import {SjDirective} from "sj-demo";
 
 @Component({
   selector: 'app-root',
